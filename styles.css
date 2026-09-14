@@ -368,6 +368,8 @@ body::after {
   color: var(--accent-amber);
   flex-shrink: 0;
   font-weight: 600;
+  width: 22ch;
+  display: inline-block;
 }
 
 .log-msg {
