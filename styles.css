@@ -305,6 +305,18 @@ body::after {
   border: 1px solid rgba(187, 154, 247, 0.25);
 }
 
+.tag-gold {
+  color: var(--accent-gold);
+  background: rgba(224, 175, 104, 0.1);
+  border: 1px solid rgba(224, 175, 104, 0.25);
+}
+
+.tag-green {
+  color: var(--accent-green);
+  background: rgba(158, 206, 106, 0.1);
+  border: 1px solid rgba(158, 206, 106, 0.25);
+}
+
 .module-title {
   color: #fff;
   font-size: 1.1rem;
